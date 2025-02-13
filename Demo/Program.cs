@@ -3,9 +3,9 @@ using Demo.Data.DataSeeding;
 using Demo.Data.Models;
 using Microsoft.EntityFrameworkCore;
 
-namespace Demo
+namespace Demo 
 {
-    internal class Program
+    internal class Program 
     {
         static void Main(string[] args)
         {
